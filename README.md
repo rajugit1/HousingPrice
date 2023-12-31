@@ -47,7 +47,7 @@ You are required to model the price of houses with the available independent var
 You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 Dataset provided by Upgrad
-Also available at https://github.com/rajugit1/BikeShare/blob/master/day.csv
+Also available at https://github.com/rajugit1/HousingPrice/blob/64dd5a17639f90a98f0ea7980ee90b9f0c804e0a/train.csv
 Data Dictionary available in the same path
 
 ## Conclusions
